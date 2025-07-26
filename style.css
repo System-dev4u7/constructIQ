@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-image: url(img/construction-8941880_640.jpg);
+    background-image: url('construction-8941880_640.jpg');
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -182,19 +182,19 @@ header {
 
 @keyframes animate {
     0% {
-        background-image: url(img/built-1.jpg);
+        background-image: url('built-1.jpg');
     }
     25% {
-        background-image: url(img/built-2.jpg);
+        background-image: url('built-2.jpg');
     }
     50% {
-        background-image: url(img/background.jpg);
+        background-image: url('background.jpg');
     }
     75% {
-        background-image: url(img/building-3.png);
+        background-image: url('building-3.png');
     }
     100% {
-        background-image: url(img/construction-site-8615139_640.jpg);
+        background-image: url('construction-site-8615139_640.jpg');
     }
     
 }
